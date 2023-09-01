@@ -139,7 +139,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Madskristensen.VisualStudio.SDK">
-      <Version>14.3.81-pre</Version>
+      <Version>16.0.83</Version>
     </PackageReference>
   </ItemGroup>
   <PropertyGroup>
